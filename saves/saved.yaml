@@ -1,0 +1,16 @@
+--- !ruby/object:Hangman
+word: consecrate
+wrong:
+- d
+dashes:
+- "*"
+- "*"
+- "*"
+- "*"
+- e
+- "*"
+- "*"
+- a
+- "*"
+- e
+remaining_attempts: 10
